@@ -1,5 +1,3 @@
-{
-  "api": "https://plusvalidation.in/sensor.php",
-  "message": "Server Online ✅",
-  "status": "active"
-}
+[
+ "https://plusvalidation.in/sensor.php"
+]
